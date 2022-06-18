@@ -1,0 +1,24 @@
+npts 42 42 36
+gridfld 2iik.maps.fld
+spacing 0.375
+receptor_types A C HD N OA SA
+ligand_types HD C A N NA OA F P SA S Cl Br I
+receptor 2iik/2iik.pdbqt
+gridcenter 1.347 -7.046 -2.479
+smooth 0.5
+map         2iik.HD.map
+map         2iik.C.map
+map         2iik.A.map
+map         2iik.N.map
+map         2iik.NA.map
+map         2iik.OA.map
+map         2iik.F.map
+map         2iik.P.map
+map         2iik.SA.map
+map         2iik.S.map
+map         2iik.Cl.map
+map         2iik.Br.map
+map         2iik.I.map
+elecmap     2iik.e.map
+dsolvmap    2iik.d.map
+dielectric -0.1465

@@ -40,7 +40,7 @@ Before training, you must run `python preprocess_data.py --smiles <file>.smi` to
 
 ```
 @article{eckmann2022limo,
-   title={Towards Physics-informed Deep Learning for Turbulent Flow Prediction},
+   title={LIMO: Latent Inceptionism for Targeted Molecule Generation},
    author={Eckmann, Peter and Sun, Kunyang and Zhao, Bo and Feng, Mudong and Gilson, Michael K and Yu, Rose},
    booktitle={International Conference on Machine Learning},
    organization={PMLR},

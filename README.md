@@ -34,3 +34,16 @@ Train the property predictor with `python train_property_predictor.py --prop {lo
 ## Training the VAE
 
 Before training, you must run `python preprocess_data.py --smiles <file>.smi` to get data ready. You can train with your own SMILES file, or use the provided `zinc250k.smi`, which has SMILES for the ZINC250k dataset. Then call `python train_vae.py`, which will save the trained model as `vae.pt`.
+
+
+## Cite
+
+```
+@article{eckmann2022limo,
+   title={Towards Physics-informed Deep Learning for Turbulent Flow Prediction},
+   author={Eckmann, Peter and Sun, Kunyang and Zhao, Bo and Feng, Mudong and Gilson, Michael K and Yu, Rose},
+   booktitle={International Conference on Machine Learning},
+   organization={PMLR},
+   Year = {2022}
+}	
+```

@@ -2,6 +2,9 @@
 
 This is the repository for our 2022 ICML paper "LIMO: Latent Inceptionism for Targeted Molecule Generation" by Peter Eckmann, Kunyang Sun, Bo Zhao, Mudong Feng, Michael K. Gilson, and Rose Yu.
 
+## Website
+You can run LIMO online at https://www.limo-aimd.com/.
+
 
 ## Installation
 
